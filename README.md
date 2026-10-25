@@ -155,3 +155,4 @@ The 1920×1080 / 60 fps launch film for the Dynamic Notch and desktop pet is in 
 
 The 1920×1080 / 60 fps feature demo of the desktop app, in the light default theme, is in [omnix-desktop-demo/README.md](omnix-desktop-demo/README.md). It covers the composer, slash commands and mentions, the plan, thinking and tools, code and terminals, multi-agent runs, Workflow Studio, custom agents, add-ons, model routing, browser and computer use, canvas and artifacts, routines, voice, the notch, pet and phone, and live re-theming. It is built from frame-driven copies of the product UI driven by the product's own theme engine, two Blender plates, an ElevenLabs voice-over (Brian and Jessica) and an original score with Mixkit SFX. The storyboard, with feature-evidence IDs, is `omnix-desktop-demo/docs/STORYBOARD.md`.
 # OmniX-videos
+# OmniX-videos
